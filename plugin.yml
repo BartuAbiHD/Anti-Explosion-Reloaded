@@ -1,0 +1,11 @@
+name: AntiExplosionReloaded
+version: 1.2
+main: com.bartuabihd.antiexplosionreloaded.AntiExplosionReloaded
+author: BartuAbiHD
+description: Anti Explosion Plugin.
+
+commands:
+  toggleexplosions:
+    description: Explosions Toggle Command.
+    usage: /toggleexplosions
+    aliases: tgex
